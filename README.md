@@ -1,6 +1,6 @@
 ---
 
-## 🔗 [LearnHub — Your Center for Skill Enhancement](https://learnhubrce.vercel.app)
+## 🔗 [LearnHub — Your Center for Skill Enhancement] (https://learnhubrce.vercel.app)
 
 **LearnHub** is a sleek, full-stack Online Learning Platform (OLP) built for learners and instructors alike. Designed to empower skill development at your own pace, LearnHub offers an intuitive, responsive interface with rich, real-world features—from dynamic course enrollment to real-time discussions and certification.
 
