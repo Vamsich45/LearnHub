@@ -67,7 +67,7 @@ Ensure the following are installed on your system:
 - pnpm  
 
 ```bash
-git clone https://github.com/your-username/learnhub.git
+git clone [(https://github.com/Vamsich45/LearnHub)]
 cd learnhub
 pnpm install
 pnpm dev
